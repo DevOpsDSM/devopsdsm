@@ -1,15 +1,13 @@
-# Site settings
-title: DevOpsDSM
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  DevOpsDSM is an awesome local user group where the meetings can be
-  anything ranging from discussions about your favorite language,
-  infrastructure technology, and even workshops on how to use 
-  specific tools.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://devopsdsm.com" # the base hostname & protocol for your site
-twitter_username: 
-github_username:  devopsdsm
+markdown: rdiscount
+permalink: /posts/:title
+rdiscount:
+  extensions: [smart]
 
-# Build settings
-markdown: kramdown
+gems:
+  - jekyll-sitemap
+
+name: DevOpsDSM
+url: http://devopdsm.com
+description: DevOpsDSM is an awesome local user group where the meetings can be anything ranging from discussions about your favorite language, infrastructure technology, and even workshops on how to use specific tools.
+twitter: DevOpsDSM
+github: devopsdsm
