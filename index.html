@@ -1,23 +1,16 @@
 ---
-layout: default
+layout: layout
+title: "Posts"
 ---
 
-<div class="home">
-
-  <h1 class="page-heading">Upcoming Topics</h1>
-
-  <ul class="post-list">
+<section class="content">
+  <ul class="listing">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+      {% unless post.draft %}
+        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        Posted: {{ post.date | date: "%B %e, %Y" }}
+        {{ post.content }}
+      {% endunless %}
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+</section>
