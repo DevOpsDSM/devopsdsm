@@ -33,4 +33,6 @@ Things we would like to do in future meetings are:
 
 ## Agenda
 
-The first meeting will be an open forum to discuss future talks and topics.
+The first meeting will be an open forum to discuss future talks, topics, and format.
+We will also bring a few devops topics to talk about if people are interested.
+Please bring your own as well. Anything is fair game!
