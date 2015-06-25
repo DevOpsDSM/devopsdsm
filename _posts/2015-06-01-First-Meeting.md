@@ -40,3 +40,21 @@ Please bring your own as well. Anything is fair game!
 ## Sponsor
 
 Still working on a sponsor, but pizza and pop/non-pop beverages will be provided.
+
+### RECAP
+
+__Added 2015-06-24__
+
+What a great turnout! If you were in attendance, thank you so much! If you couldn't make it
+this time, no worries. See you next time.
+
+We mostly just talked about what types of meetings we would like to hold. There were a few
+ideas, but the ones that stuck the most were mini workshops, lightning talks, and discussions.
+
+There was a large variety of backgrounds in attendance. There were developers, sys admins,
+and operations people. Windows, Linux, iOS, Android, and OSX were all talked about for deployment
+environments so we should have lots to talk about for a long time!
+
+To collect new topics for future meetings, we will use github issues. We can discuss there
+and decide when and what the topics will be about. [Click here](https://github.com/DevOpsDSM/devopsdsm/issues)
+to view the current topic ideas or to submit your own.
