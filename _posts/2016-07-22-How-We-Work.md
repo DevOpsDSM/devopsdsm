@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How we work
+title: How we work (Lightning Talks)
 category: posts
 ---
 
@@ -25,6 +25,9 @@ DevOps works at their company. This talk doesn't have to be 100% DevOps related.
 Things that would be nice to touch on or think about are:
 
 * Type of software/infrastructure produced
+* What does your infrastructure look like? (windows, linux, raspberry pi clusters?)
+* How do you set up your infrastructure?
+* How do you deploy code?
 * Team member specialties
 * Week-in-the-life walkthrough
 * How well does DevOps fit your company?
