@@ -49,6 +49,17 @@ We want this exercise to be informative, not demanding or demeaning.
 Our goal is to inform how others do things and for people to show off what they do well, and ask if anyone
 can help with problem areas.
 
+Food and Drink will be provided
+
 ## Sponsor
 
-Still working on a sponsor, but pizza and pop/non-pop beverages will be provided.
+[Pillar Technology](http://pillartechnology.com)
+
+![](http://pillartechnology.com/wp-content/uploads/PillarBlue_BusinessAgilityWebColorBar.jpg =100x100)
+
+The [Forge Network](https://www.youtube.com/watch?v=6i0PsUTIX9E) is expanding to Des Moines.
+
+We work with a variety of clients primarily in the Des Moines, Ann Arbor and Columbus regions. We are excited to help the growth of DevOps and Software Craftsmanship in the Des Moines area. 
+
+If you would like to join us in disrupting various industries and solving complex business problems, please contact us: [Apply here](http://pillartechnology.com/apply)
+
