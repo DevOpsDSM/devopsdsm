@@ -33,6 +33,14 @@ We will try to cover:
 
 The format will be a discussion so feel free to bring ideas from your own companies.
 
+Food and drinks will be provided.
+
 ## Sponsor
 
-Food and drinks will be provided.
+[The Sparks Solution](http://thesparkssolution.com/)
+
+![](http://thesparkssolution.com/wp-content/uploads/2013/08/Logo-Full-375.png)
+
+The Spark You Need to Ignite Your Business
+
+We're The Sparks Solution and we're here to partner with you to meet the goals and aspirations of your business. Contact us today and we can discuss solutions for you based on your timeline and budget to receive the best ROI for your business!
