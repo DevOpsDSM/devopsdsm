@@ -6,7 +6,7 @@ category: posts
 
 ## When
 
-September 30th at 6:30 PM
+September 23 at 6:30 PM
 
 ## Where
 
