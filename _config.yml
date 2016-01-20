@@ -7,7 +7,7 @@ gems:
   - jekyll-sitemap
 
 name: DevOpsDSM
-url: http://devopdsm.com
+url: http://devopsdsm.com
 description: DevOpsDSM is an awesome local user group where the meetings can be anything ranging from discussions about your favorite language, infrastructure technology, and even workshops on how to use specific tools.
 twitter: DevOpsDSM
 github: devopsdsm
