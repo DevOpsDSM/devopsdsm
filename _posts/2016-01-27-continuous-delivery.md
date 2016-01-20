@@ -45,3 +45,17 @@ We'll cover using Continuous Delivery enabling tools such as:
  - Packer
  - Docker
  - Marathon
+
+Food and drinks will be provided!
+
+## Sponsor
+
+[Dynamo](http://godynamo.co/)
+
+![]({{ site.url }}/images/dynamo.jpg =100x100)
+
+You deserve it, we’re generating it: a much needed change in the IT industry. We are Dynamo and we’ve set out to redefine the IT Consulting and Recruiting solution- one human interaction at a time.
+
+Our ambitious journey began in 2014 by two former executives of a global Fortune 500 company. After spending a collective 23 years in the industry as record-breaking top performers, they chose to walk away from it all, step outside their comfort zones, and build a transformational organization our employees, consultants, clients, candidates, and all of their families truly love and trust.
+
+We are currently powering the IT industry in DevOps, Cloud, InfoSec, Data Analytics, Mobile, and Agile Software Development. If you think you have what it takes to join forces and you want to be a part of a bold story, redefining a growing, but fractured $27 billion industry that is ripe for innovation and change, please reach out, we’d love to chat.
