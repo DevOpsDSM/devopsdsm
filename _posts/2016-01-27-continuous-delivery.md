@@ -10,9 +10,11 @@ January 27th at 6:00 PM
 
 ## Where
 
+_NOTE:_ We are on the 3rd floor from now on.
+
 Gravitate Conference Room<br />
 Sixth Floor<br />
-206 6th Ave Des Moines, IA
+206 3th Ave Des Moines, IA
 
 [Map Link](https://www.google.com/maps/place/206+6th+Ave,+Des+Moines,+IA+50309)
 
