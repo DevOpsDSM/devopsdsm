@@ -1,3 +1,4 @@
+future: true
 markdown: rdiscount
 permalink: /posts/:title
 rdiscount:
