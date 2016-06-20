@@ -1,5 +1,5 @@
 future: true
-markdown: rdiscount
+markdown: kramdown
 permalink: /posts/:title
 rdiscount:
   extensions: [smart]
