@@ -15,7 +15,7 @@ Waukee Innovation and Learning Center<br />
 waukeeapex.org
 
 
-[Map Link](https://www.google.com/maps/place/206+6th+Ave,+Des+Moines,+IA+50309)
+[Map Link](https://goo.gl/maps/YY5RmJgTGKk)
 
 ## Agenda
 
